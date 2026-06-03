@@ -22,6 +22,7 @@ consultas-sql-vendas/
     03_consultas_basicas.sql
     04_consultas_com_join.sql
     05_relatorios.sql
+    06_consultas_datas_having.sql
 ```
 
 ## O que o projeto pratica
@@ -34,6 +35,7 @@ consultas-sql-vendas/
 - Ordenação com `ORDER BY`
 - Relacionamento entre tabelas com `JOIN`
 - Agrupamento com `GROUP BY`
+- Filtros em grupos com `HAVING`
 - Relatórios simples de vendas
 
 ## Como usar
@@ -45,6 +47,7 @@ Execute os scripts na ordem:
 3. `03_consultas_basicas.sql`
 4. `04_consultas_com_join.sql`
 5. `05_relatorios.sql`
+6. `06_consultas_datas_having.sql`
 
 Os scripts foram escritos com comandos SQL simples para facilitar a execução em ferramentas como SQLite, MySQL Workbench, DBeaver ou extensões de banco de dados no VS Code.
 
@@ -54,7 +57,5 @@ Criei este projeto para fortalecer minha base em banco de dados, que é importan
 
 ## Melhorias futuras
 
-- Adicionar mais consultas com datas.
-- Criar consultas usando `HAVING`.
 - Adaptar os scripts para MySQL com mais detalhes.
 - Integrar essa base com uma API simples.

@@ -39,3 +39,11 @@ Cria consultas com cara de relatório:
 - valor total de cada pedido;
 - faturamento por categoria;
 - quantidade de clientes e pedidos por estado.
+
+## 06_consultas_datas_having.sql
+
+Pratica consultas um pouco mais específicas:
+
+- pedidos dentro de um período;
+- clientes com mais de um pedido usando `HAVING`;
+- ticket médio por status de pedido.
